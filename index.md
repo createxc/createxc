@@ -1,1 +1,3 @@
-Test
+# Site settings
+title: Test
+SEOTitle: Hello
